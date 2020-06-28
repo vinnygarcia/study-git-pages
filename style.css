@@ -1,0 +1,9 @@
+body {
+    background-color: aqua;
+}
+
+#container {
+    background-color: white;
+    padding: 1rem;
+    margin: 2rem 0.1rem;
+}
