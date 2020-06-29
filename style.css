@@ -2,7 +2,7 @@ body {
     background-color: aqua;
 }
 
-#container {
+.container {
     background-color: white;
     padding: 1rem;
     margin: 2rem 0.1rem;
